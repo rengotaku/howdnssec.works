@@ -1,28 +1,28 @@
 # Include name and links to their social media
 translation:
-  source: ""
+  source: "日本語"
 
 # Navigation
 nav:
-  episodes: "Episodes"
-  about: "About"
-  ep1: "Why do we need DNSSEC?"
-  ep2: "New records"
-  ep3: "Key-Signing Who?"
-  ep4: "Trust the hierarchy"
-  ep5: "Human DNS"
-  social: "Be a social taco"
-  more_comics: "Read more comics"
-  continue_reading: "Continue reading"
-  play_game: "Play the DNSSEC game"
+  episodes: "エピソード"
+  about: "このサイトについて"
+  ep1: "どうしてDNSSECが必要なの？"
+  ep2: "新しいレコード"
+  ep3: "キーの署名をするのは誰？"
+  ep4: "階層の仕組みを信じよう！"
+  ep5: "DNSマン"
+  social: "みんなとタコスをシェアしよう"
+  more_comics: "他のコミックも読んでみて"
+  continue_reading: "つづきを読む"
+  play_game: "DNSSECゲームであそぼう"
 
 not_found:
-  title: "Page not found"
-  description: "Sorry, page not found"
+  title: "ページが見つかりません"
+  description: "ページが見つからないみたい…"
 
 episodes:
-  title: "DNSSEC Comic: Explore all the episodes: Discover Why DNS needs security"
-  description: "Explore each chapter of the DNSSEC comic made by DNSimple. What is DNSSEC? And how does DNSSEC work? Dive into secure domain insights with humor and clarity."
+  title: "DNSSECコミック: 全エピソードを読んで、DNSにセキュリティが必要な理由を知ろう"
+  description: "DNSimpleが制作したDNSSECコミックの各章を読んでみよう。DNSSECとは何か？また、どのように機能するのか？面白くて分かりやすく、安全なドメインの仕組みを解き明かします。"
 
 # Home page
 home:
