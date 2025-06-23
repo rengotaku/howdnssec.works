@@ -26,14 +26,14 @@ episodes:
 
 # Home page
 home:
-  title: "How DNSSEC works"
-  sub_title: "What is DNSSEC? Dive into DNSimple's fun, illustrated comic to learn all about it!"
-  seo_title: "DNSSEC Explained: A Fun, Illustrated Comic by DNSimple"
-  description: "Dive into DNSSEC basics with DNSimple's engaging comic! Learn how DNS works, discover why security matters, and enjoy a lighthearted take on a technical topic."
-  big_cta: "Start reading"
-  p1: "How do you feel about a taco explaining you how DNSSEC works? Sometimes, when you're stuck understanding a topic, mixing it up with something completely different may help grasping it."
-  p2: "We created this comic as a fun side project. We work with DNS, SSL certificates, and DNSSEC all day long, so we want to share what we know. We hope you enjoy it!"
-  small_cta: "Let's do this"
+  title: "DNSSECはどのように機能するの？"
+  sub_title: "DNSSECってなに？DNSimpleの面白さに触れて、たのしいコミックですべてを学んでみよう！"
+  seo_title: "DNSSEC解説: DNSimpleが提供する楽しいイラスト付きのコミック"
+  description: "DNSimpleの魅力的なコミックで、DNSSECの基本を学びましょう！DNSの仕組みを知り、なぜセキュリティが重要なのかを発見しよう。すると技術的な話題を楽しく学べます。"
+  big_cta: "コミックを読む"
+  p1: "DNSSECの仕組みをタコスが説明してくれるのはどう思いますか？ある話題を理解するのに行き詰まったときは、全く別のものと組み合わせてみることで、理解が深まることがあります。"
+  p2: "このコミックは、私たちが楽しみながら作ったサイドプロジェクトです。私たちは日頃からDNSやSSL証明書、DNSSECを扱っているので、その知識を皆さんと共有したいと思いました。楽しんでいただければ幸いです。"
+  small_cta: "読んでみよう"
 
 about:
   title: "About Our DNSSEC Comic: A quirky peek behind the scenes at DNSimple"
