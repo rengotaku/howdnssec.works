@@ -31,26 +31,26 @@ home:
   seo_title: "DNSSEC解説: DNSimpleが提供する楽しいイラスト付きのコミック"
   description: "DNSimpleの魅力的なコミックで、DNSSECの基本を学びましょう！DNSの仕組みを知り、なぜセキュリティが重要なのかを発見しよう。すると技術的な話題を楽しく学べます。"
   big_cta: "コミックを読む"
-  p1: "DNSSECの仕組みをタコスが説明してくれるのはどう思いますか？ある話題を理解するのに行き詰まったときは、全く別のものと組み合わせてみることで、理解が深まることがあります。"
+  p1: "DNSSECの仕組みをタコス君が説明してくれるのはどう思いますか？ある話題を理解するのに行き詰まったときは、全く別のものと組み合わせてみることで、理解が深まることがあります。"
   p2: "このコミックは、私たちが楽しみながら作ったサイドプロジェクトです。私たちは日頃からDNSやSSL証明書、DNSSECを扱っているので、その知識を皆さんと共有したいと思いました。楽しんでいただければ幸いです。"
   small_cta: "読んでみよう"
 
 about:
-  title: "About Our DNSSEC Comic: A quirky peek behind the scenes at DNSimple"
-  description: "Discover how DNSSEC, tacos, and a dash of teenage-level moodiness come together in our comic. Meet the DNSimple team, learn why DNSSEC matters, and enjoy an entertaining spin on secure domains."
-  1: "Welcome to our DNSSEC comic's 'About' page. You might notice there's no fancy background gradient here, but that's all part of the charm. We like to keep things real (and occasionally sprinkle in some teenage-level moodiness for fun).</p>"
-  2: "Why this comic?"
-  3: "Because DNSSEC is a big deal. It's complicated, but it doesn't have to be boring. We want to demystify it in the most entertaining way possible, complete with quirky jokes (we're not biased or anything), tacos, and a healthy disregard for plain-vanilla presentations."
-  4: "Who's behind it?"
-  5: "This project comes from the fine folks at DNSimple. We sell domains and keep them running smoothly. Think of us as DNS by people who get it. We've been a 100% remote team since 2010, scattered across Europe, Asia, and the Americas, yet perfectly synced in our love of tacos…and DNSSEC."
-  6: "What else do we do?"
-  7: "We offer SSL certificates and an API that's rock-solid (not our words, we swear!). That way you can automate and manage your domains, taco in one hand, keyboard in the other. Why waste precious taco time fiddling with DNSSEC?"
-  8: "Anyway…"
-  9: "Thanks for stopping by! Enjoy the comic, learn a bit, laugh a lot, and definitely grab some tortillas on your way out. Got the salsa handy?"
+  title: "DNSSECコミックについて：DNSimpleの舞台裏をユニークな視点でご紹介します"
+  description: "DNSSECとタコス君、そしてちょっぴりツンとしたティーンの空気感が、コミックでどう交わるのか見てみよう。DNSimpleの仲間たちと出会いながら、DNSSECの大切さをコミカルに楽しく学べるよ。"
+  1: "DNSSECコミックの「About」ページへようこそ。派手やかさはないけど、それがウチら流。リアルさは大事にしてます（たまにティーンっぽい気分屋ノリも入ってるよ）。</p>"
+  2: "なぜこのコミックを作ったのか？"
+  3: "だってDNSSECって、めちゃくちゃ大事なんだもん。ややこしいけど、退屈なままじゃイヤだよね。だから僕らは、クスッと笑える変なジョーク（いや、偏ってないよ！）とタコス君と一緒に、地味なプレゼンなんて無視して、とにかく楽しくDNSSECをわかりやすくしたかったんだ。"
+  4: "作ってるのは誰？"
+  5: "このプロジェクトを作ったのは、DNSimpleのちょっとイケてる仲間たち。ドメインを売ったり、その管理をスムーズにしたりするのが僕らの仕事。ドメインの販売や運用のプロ集団で、DNSのことはバッチリわかってるから安心して。2010年からずっとフルリモートしてます。活動場所はヨーロッパ、アジア、アメリカとバラバラだけど、タコス君とDNSSECへの愛は共通言語です。"
+  6: "他にどんなことしてると思う？"
+  7: "SSL証明書とか、めちゃくちゃ安定してるAPIも提供してるよ（ホントに！自分たちで言ってるんじゃないからね！）。これで片手にタコス、もう片手にキーボードでも、サクサクできちゃうよ。DNSSECいじってタコスタイムをムダにするなんて、もったいなくない？"
+  8: "とにかく..."
+  9: "見てくれてありがとうございます！コミックを楽しんで、ちょっと学んで、いっぱい笑って、絶対にトルティーヤも持って帰ってね。サルサの用意はできてるかな？"
 
 translate:
-  title: "Translate How DNSSEC works Comic | YAML Guide & Submission"
-  description: "Download the English YAML template, translate the comic's text, and learn how to submit your version for publication on howdnssec.works, with full attribution."
+  title: "「How DNSSEC works」コミックの翻訳 | YAMLの編集案内と投稿方法について"
+  description: "英語版YAMLのテンプレートをダウンロードし、コミックのテキストを翻訳して、howdnssec.worksに君の翻訳を掲載してもらうための投稿方法を確認しましょう（クレジット付きで公開されます）。"
 
 # Episodes
 ep1:
