@@ -38,7 +38,7 @@ home:
 about:
   title: "DNSSECコミックについて：DNSimpleの舞台裏をユニークな視点でご紹介します"
   description: "DNSSECとタコス君、そしてちょっぴりツンとしたティーンの空気感が、コミックでどう交わるのか見てみよう。DNSimpleの仲間たちと出会いながら、DNSSECの大切さをコミカルに楽しく学べるよ。"
-  1: "DNSSECコミックの「About」ページへようこそ。派手やかさはないけど、それがウチら流。リアルさは大事にしてます（たまにティーンっぽい気分屋ノリも入ってるよ）。</p>"
+  1: "DNSSECコミックの「About」ページへようこそ。派手やかさはないけど、それがウチら流。リアルさは大事にしてます（たまにティーンっぽい気分屋ノリも入ってるよ）。"
   2: "なぜこのコミックを作ったのか？"
   3: "だってDNSSECって、めちゃくちゃ大事なんだもん。ややこしいけど、退屈なままじゃイヤだよね。だから僕らは、クスッと笑える変なジョーク（いや、偏ってないよ！）とタコス君と一緒に、地味なプレゼンなんて無視して、とにかく楽しくDNSSECをわかりやすくしたかったんだ。"
   4: "作ってるのは誰？"
@@ -211,7 +211,7 @@ game:
     try_again: "Try again"
     visit_dnsimple: "Explore DNSimple"
     more_comics: "Read more comics"
-    inventory: "Inventario"
+    inventory: "Inventory"
   inventory:
     close_button: "Close Inventory"
     mission:
