@@ -232,20 +232,20 @@ game:
       3: "dnsimple.comのNSレコード"
       4: "www.dnsimple.comのIPアドレス"
   page1:
-    title: "DNSSEC Adventure: The Awakening of the Resolver"
-    description: "Awaken in the digital darkness as the heroic Resolver, ready to bridge names to numbers. Your first query calls—will you heed its call?"
-    1: "You wake up in the digital darkness, quiet except for the gentle hum of waiting queries."
-    2: "You're **Resolver**, the digital hero connecting website names to their numeric homes. Suddenly, your circuits buzz. A query just arrived!"
+    title: "DNSSECアドベンチャー：リゾルバの目覚め"
+    description: "デジタルの闇の中で、名前と番号をつなぐヒーロー『リゾルバ』として目覚める。最初のクエリが君を呼ぶ――応える？"
+    1: "君はデジタルの闇の中で目を覚ます。静寂の中、待ち受けるクエリたちのかすかなハミングだけが響いている。"
+    2: "君は **リゾルバ**。ウェブサイトの名前を数字の住所へつなぐデジタルのヒーローだ。突然、回路がざわめく。クエリが届いたぞ！"
   page2:
-    title: "DNSSEC Adventure: The First Query"
-    description: "A new request arrives: Resolve www.dnsimple.com. Step into your role as Resolver and embark on a journey through the DNS universe."
-    1: "Resolve **www.dnsimple.com**."
+    title: "DNSSECアドベンチャー：最初のクエリ"
+    description: "新たなリクエストが到着――www.dnsimple.comを解決せよ。リゾルバとしての役割を果たし、DNSの宇宙を旅する冒険に出よう。"
+    1: "**www.dnsimple.com** を解決せよ。"
   page3:
-    title: "DNSSEC Adventure: Entering the Root Zone"
-    description: "Spin up your protocols and prepare to dive into the Root Zone, the oldest and most fortified realm in the DNSSEC world."
-    1: "Time to get to work. Protocols spin up inside you."
-    2: "To securely find the answer, you'll need to venture into unknown digital territory."
-    3: "Your first stop is the **Root Zone**, the oldest and most protected place in the DNS universe."
+    title: "DNSSECアドベンチャー：ルートゾーンへの突入"
+    description: "プロトコルを起動し、ルートゾーンへの突入準備を整えよう。そこは、DNSSEC世界で最も古く、最も厳重に守られた領域だ。"
+    1: "さあ、仕事の時間だ。君の中でプロトコルが起動を始める。"
+    2: "正しい答えを安全に見つけるには、未知のデジタル領域へと踏み込む必要がある。"
+    3: "最初の目的地は **ルートゾーン**。DNSの宇宙で最も古く、最も守られた場所だ。"
   page4:
     # No longer exists
   page5:
